@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🪞 自我 · 镜中之我
+# 🪞 观尘 (See the Dust)
 
 **一个让 AI 成为"另一个你"的 Skill**
 
@@ -101,7 +101,7 @@ git clone https://github.com/yourusername/self-skill.git
 ## 📁 文件结构
 
 ```
-自我-skill/
+观尘-skill/
 ├── README.md                    ← 你正在看的这个
 └── .agents/
     └── skills/

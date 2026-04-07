@@ -11,7 +11,7 @@
 
 ## 缘起
 
-**“我想拯救那些深陷于心理困扰中的人，想让大家越过泥沼，看到自己的闪光点，活出真实的价值。”**
+**“愿那些深陷于心理困扰中的人，看到自己的闪光点，活出真实的价值。”**
 
 观微尘，见众生。
 我们往往花太多时间在讨好外界、迎合标准中迷失，导致深度的精神内耗甚至心理隐疾。我们总在挑剔自己，紧盯着自己的“缺陷”，却不知道跳出世俗的评判标准来看，那道裂缝恰恰是老天降给你的光芒。
@@ -120,9 +120,9 @@ git clone https://github.com/yourusername/guanchen.git
 
 本世间任何法门皆有源流。观尘的双层文件结构以及“将 AI 逆向运用为自我倒影”的缘起灵感，致敬以下极具极客精神的开源拓荒者：
 
-- **自己.skill (by Notdog)** — 感谢你开启了“与自己增量 / 拥抱数字永生”的赛博哲思之旅。
-- **同事.skill (by titanwings)** — 首创了将蒸馏 AI 引入人际场景的双层底层架构。
-- **前任.skill (by therealXiaomanChu)** — 对亲密关系视角的深度延伸与拓展。
+- [自己.skill (by notdog1998)](https://github.com/notdog1998/yourself-skill) — 感谢你开启了“与自己增量 / 拥抱数字永生”的赛博哲思之旅。
+- [同事.skill (by titanwings)](https://github.com/titanwings/colleague-skill) — 首创了将角色蒸馏引入人际场景的双层底层架构。
+- [前任.skill (by therealXiaomanChu)](https://github.com/therealXiaomanChu/ex-skill) — 对亲密关系视角的深度延伸与拓展。
 
 与他们不同的是，观尘走向了**纯粹的东方哲思与深度心理干预的交叉荒野**。
 我们不仅记载了你的口头禅，更引入了命理底色，只为扮演一面强行剥去世俗评判、把你从深海内耗里托上去的镜子。

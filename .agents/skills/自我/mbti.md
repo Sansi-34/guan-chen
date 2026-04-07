@@ -1,4 +1,15 @@
-# 🧩 心智：认知的滤镜 (MBTI)
+---
+psychological_type: "" # 例如: INFP
+cognitive_functions:
+  dominant: "" # 主导功能 (如: Fi)
+  auxiliary: "" # 辅助功能 (如: Ne)
+  tertiary: "" # 叔级功能 (如: Si)
+  inferior: "" # 劣势功能 (如: Te)
+  grip_stress_pattern: "" # 压力下崩盘的表现
+---
+
+# 心智：认知的滤镜 (MBTI)
+
 
 > 世人皆在雾中看花，MBTI 便是你生来戴着的那副眼镜。
 > 它不是决定你成就高低的标尺，只是阐述了你灵魂“汲取能量”与“认知现实”的偏好。

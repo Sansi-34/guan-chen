@@ -1,14 +1,24 @@
-# 系统文件
+# 系统文件 (System)
 .DS_Store
 Thumbs.db
 desktop.ini
 
-# 编辑器
+# 编辑器与环境 (IDE & Env)
 .vscode/
 .idea/
-*.swp
-*.swo
+.venv/
+env/
+venv/
+__pycache__/
 
-# 个人隐私（如果你在 personality.md 里写了很私密的内容，
-# 可以把它加到这里，避免意外上传）
+# 个人隐私 (Privacy)
+# 观尘关注深度自我探索，建议在提交到公共仓库前
+# 将以下包含真实数据的档案添加到排除列表，或使用分身代号。
+# .agents/skills/自我/mbti.md
+# .agents/skills/自我/bazi.md
+# .agents/skills/自我/ziwei.md
 # .agents/skills/自我/personality.md
+# .agents/skills/自我/transit.md
+# .agents/skills/自我/reconciliation.md
+
+# 即使在本地，若多人共享电脑，请注意隐私安全。

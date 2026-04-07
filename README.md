@@ -5,6 +5,13 @@
 **“向外求索，万物皆是死局；向内观取，微尘亦见众生。”**  
 **“与其在别人的世界里做增量，不如在自己的命盘中求余生。”**  
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python: 3.9+](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
+[![Agentic: Standard](https://img.shields.io/badge/Agentic-Standard-green.svg)](#)
+[![Compatibility: Claude Code](https://img.shields.io/badge/Compatibility-Claude%20Code-orange.svg)](#)
+
+[中文](README.md) | [English](README_EN.md)
+
 </div>
 
 ---
